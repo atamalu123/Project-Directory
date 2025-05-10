@@ -1,2 +1,9 @@
 # Project-Directory
-A directory of my projects
+
+# [NHANES Data](https://github.com/atamalu123/NHANES)
+
+## [Water Intake](https://github.com/atamalu123/NHANES/blob/main/water_intake.md)
+
+I used the 2021-2023 [National Health and Nutrition Examination Survey data](https://www.cdc.gov/nchs/nhanes/about/) to look at trends in water intake in individuals throughout the American population, including demographic differences and the relationship between water intake and BMI.
+
+
