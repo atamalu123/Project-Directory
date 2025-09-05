@@ -2,7 +2,7 @@
 
 ## My process
 
-![Process](images/data_pipeline.jpg)
+![Process](images/data_pipeline.jpeg)
 
 ## By skill
 
