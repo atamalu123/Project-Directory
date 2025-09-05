@@ -22,7 +22,7 @@ This displays my typical process for data analysis, which automates most of the 
 ### Data exploration, visualization
 
 * [Exploring COVID loan data](https://github.com/atamalu/covid_loans)
-* [Exploring individuals' water intake using .gov data](https://github.com/atamalu123/NHANES)
+* [Exploring American citizens' water intake using .gov data](https://github.com/atamalu123/NHANES)
 * [Exploring baseball data](https://github.com/atamalu/Scraping-Fangraphs/blob/master/Pt_3_Data_Exploration.md)
 * [Exploring NFL data](https://github.com/atamalu/Intro-to-NFL-Data/blob/master/Week_1_Exploration_All.md)
 
