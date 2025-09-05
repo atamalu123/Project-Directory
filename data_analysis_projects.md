@@ -2,8 +2,8 @@
 
 ## Navigation
 
-[Jump to projects by program/language](#by-programlanguage)  
 [Jump to projects by skill](#by-skill)  
+[Jump to projects by program/language](#by-programlanguage)  
 
 ## My process
 
