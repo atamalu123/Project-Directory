@@ -1,5 +1,10 @@
 # Data Analysis Projects
 
+## Navigation
+
+[Jump to projects by program/language](#by-programlanguage)  
+[Jump to projects by skill](#by-skill)  
+
 ## My process
 
 ![Process](images/data_pipeline.jpeg)
@@ -14,7 +19,7 @@ This displays my typical process for data analysis, which automates most of the 
 * [Data manipulation using R, Python, and SQL](https://github.com/atamalu123/data_manipulation_practice)
 * [Leetcode SQL challenges](https://github.com/atamalu123/data_manipulation_practice)
 
-### Data exploration
+### Data exploration, visualization
 
 * [Exploring COVID loan data](https://github.com/atamalu/covid_loans)
 * [Exploring individuals' water intake using .gov data](https://github.com/atamalu123/NHANES)
@@ -24,6 +29,10 @@ This displays my typical process for data analysis, which automates most of the 
 ### Statistics, hypothesis testing, machine learning
 
 * [Applied statistics and hypothesis testing](https://github.com/atamalu/Applied-Stats-Sims)
+
+### Dashboards
+
+* [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
 
 ## By program/language
 
