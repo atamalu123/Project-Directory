@@ -3,7 +3,8 @@
 ## Navigation
 
 [Show projects by skill](#by-skill)  
-[Show projects by program/language](#by-programlanguage)  
+[Show projects by program/language](#by-programlanguage) 
+[Show projects by data category](#by-data-category)
 
 ## My process
 
@@ -17,7 +18,6 @@ This displays my typical process for data analysis, which automates most of the 
 
 * Gathering data: [Fangraphs baseball data](https://github.com/atamalu/Scraping-Fangraphs), [NFL data](https://github.com/atamalu/Intro-to-NFL-Data?tab=readme-ov-file)
 * [Data manipulation using R, Python, and SQL](https://github.com/atamalu123/data_manipulation_practice)
-* [Leetcode SQL challenges](https://github.com/atamalu123/data_manipulation_practice)
 
 ### Data exploration, visualization
 
@@ -30,11 +30,15 @@ This displays my typical process for data analysis, which automates most of the 
 
 * [Applied statistics and hypothesis testing](https://github.com/atamalu/Applied-Stats-Sims)
 
-### Dashboards
+### Dashboards, reports
 
 * [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
 
 ## By program/language
+
+### Power BI
+
+* [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
 
 ### SQL
 
@@ -52,6 +56,31 @@ This displays my typical process for data analysis, which automates most of the 
 
 *  [Functions to control the BlueStacks android emulator](https://github.com/atamalu/BlueStacksADB)
 
-### Power BI
+## By data category
 
-* [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
+### Sports
+
+* [Baseball (MLB)](https://github.com/atamalu/Scraping-Fangraphs)
+* [Football (NFL)](https://github.com/atamalu/Intro-to-NFL-Data)
+
+### Supply chain
+
+* [Supply chain dashboard](https://github.com/atamalu123/dashboards/blob/main/supply_chain_management.jpg)
+
+### Health
+
+* [Exploring individuals' water intake using .gov data](https://github.com/atamalu123/NHANES)
+
+### Finance, sales
+
+* [Sales and inventory dashboard](https://github.com/atamalu123/dashboards/blob/main/sales_and_inventory.jpg)
+* [Sales dashboard](https://github.com/atamalu123/dashboards/blob/main/supply_chain_and_sales.jpg)
+
+### Math and Science
+
+* [Applied statistics and hypothesis testing](https://github.com/atamalu/Applied-Stats-Sims)
+
+### Other
+
+* [Exploring COVID loan data](https://github.com/atamalu/covid_loans)
+* [Leetcode SQL challenges](https://github.com/atamalu123/data_manipulation_practice)
