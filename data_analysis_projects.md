@@ -3,7 +3,9 @@
 ## Navigation
 
 [Show projects by skill](#by-skill)  
+
 [Show projects by program/language](#by-programlanguage) 
+
 [Show projects by data category](#by-data-category)
 
 ## My process
