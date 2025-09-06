@@ -60,11 +60,6 @@ This displays my typical process for data analysis, which automates most of the 
 
 ## By data category
 
-### Sports
-
-* [Baseball (MLB)](https://github.com/atamalu/Scraping-Fangraphs)
-* [Football (NFL)](https://github.com/atamalu/Intro-to-NFL-Data)
-
 ### Supply chain
 
 * [Supply chain dashboard](https://github.com/atamalu123/dashboards/blob/main/supply_chain_management.jpg)
@@ -81,6 +76,11 @@ This displays my typical process for data analysis, which automates most of the 
 ### Math and Science
 
 * [Applied statistics and hypothesis testing](https://github.com/atamalu/Applied-Stats-Sims)
+
+### Sports
+
+* [Baseball (MLB)](https://github.com/atamalu/Scraping-Fangraphs)
+* [Football (NFL)](https://github.com/atamalu/Intro-to-NFL-Data)
 
 ### Other
 
