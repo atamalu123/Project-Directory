@@ -27,6 +27,7 @@ This displays my typical process for data analysis, which automates most of the 
 * [Exploring American citizens' water intake using .gov data](https://github.com/atamalu123/NHANES)
 * [Exploring baseball data](https://github.com/atamalu/Scraping-Fangraphs/blob/master/Pt_3_Data_Exploration.md)
 * [Exploring NFL data](https://github.com/atamalu/Intro-to-NFL-Data/blob/master/Week_1_Exploration_All.md)
+* [Exploring supply chain data](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 
 ### Statistics, hypothesis testing, machine learning
 
@@ -35,12 +36,14 @@ This displays my typical process for data analysis, which automates most of the 
 ### Dashboards, reports
 
 * [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
+* [Supply chain data Power BI report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 
 ## By program/language
 
 ### Power BI
 
 * [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
+* [Supply chain data Power BI report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 
 ### SQL
 
@@ -57,12 +60,14 @@ This displays my typical process for data analysis, which automates most of the 
 ### Python
 
 *  [Functions to control the BlueStacks android emulator](https://github.com/atamalu/BlueStacksADB)
+*  [Supply chain data exploration](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 
 ## By data category
 
 ### Supply chain
 
 * [Supply chain dashboard](https://github.com/atamalu123/dashboards/blob/main/supply_chain_management.jpg)
+* [Supply chain data exploration and report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 
 ### Health
 
