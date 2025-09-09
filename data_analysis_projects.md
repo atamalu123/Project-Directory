@@ -32,6 +32,7 @@ This displays my typical process for data analysis, which automates most of the 
 ### Statistics, hypothesis testing, machine learning
 
 * [Applied statistics and hypothesis testing](https://github.com/atamalu/Applied-Stats-Sims)
+* [Demand forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
 
 ### Dashboards, reports
 
@@ -61,6 +62,7 @@ This displays my typical process for data analysis, which automates most of the 
 
 *  [Functions to control the BlueStacks android emulator](https://github.com/atamalu/BlueStacksADB)
 *  [Supply chain data exploration](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
+*  [Demand Forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
 
 ## By data category
 
@@ -68,6 +70,7 @@ This displays my typical process for data analysis, which automates most of the 
 
 * [Supply chain dashboard](https://github.com/atamalu123/dashboards/blob/main/supply_chain_management.jpg)
 * [Supply chain data exploration and report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
+* [Demand forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
 
 ### Health
 
