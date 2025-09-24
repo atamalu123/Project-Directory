@@ -8,12 +8,6 @@
 
 [Show projects by data category](#by-data-category)
 
-## My process
-
-![Process](images/data_pipeline.jpeg)
-
-This displays my typical process for data analysis, which automates most of the process as possible before exporting tables for use with Power BI/Tableau. 
-
 ## By skill
 
 ### Data gathering, data cleaning, data manipulation
@@ -33,13 +27,19 @@ This displays my typical process for data analysis, which automates most of the 
 
 * [Applied statistics and hypothesis testing](https://github.com/atamalu/Applied-Stats-Sims)
 * [Demand forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
+* [Demand Forecasting and Planning](https://github.com/atamalu123/demand_planning/blob/main/README.md)
 
 ### Dashboards, reports
 
 * [Finished dashboards from previous clients](https://github.com/atamalu123/dashboards)
 * [Supply chain data Power BI report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
+* [Demand Forecasting and Planning](https://github.com/atamalu123/demand_planning/blob/main/README.md)
 
 ## By program/language
+
+### Excel
+
+* [Demand Forecasting and Planning](https://github.com/atamalu123/demand_planning/blob/main/README.md)
 
 ### Power BI
 
@@ -71,6 +71,7 @@ This displays my typical process for data analysis, which automates most of the 
 * [Supply chain dashboard](https://github.com/atamalu123/dashboards/blob/main/supply_chain_management.jpg)
 * [Supply chain data exploration and report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 * [Demand forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
+* [Demand Forecasting and Planning](https://github.com/atamalu123/demand_planning/blob/main/README.md)
 
 ### Health
 
