@@ -14,6 +14,8 @@
 
 * Gathering data: [Fangraphs baseball data](https://github.com/atamalu/Scraping-Fangraphs), [NFL data](https://github.com/atamalu/Intro-to-NFL-Data?tab=readme-ov-file)
 * [Data manipulation using R, Python, and SQL](https://github.com/atamalu123/data_manipulation_practice)
+* [Data engineering take home interview questions](https://github.com/atamalu123/data_engineering_practice)
+* [Data engineering API take home interview](https://github.com/atamalu123/data_engineering_practice_2)
 
 ### Data exploration, visualization
 
@@ -60,9 +62,11 @@
 
 ### Python
 
-*  [Functions to control the BlueStacks android emulator](https://github.com/atamalu/BlueStacksADB)
-*  [Supply chain data exploration](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
-*  [Demand Forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
+* [Data engineering take home interview questions](https://github.com/atamalu123/data_engineering_practice)
+* [Data engineering API pipeline interview take home](https://github.com/atamalu123/data_engineering_practice_2)
+* [Functions to control the BlueStacks android emulator](https://github.com/atamalu/BlueStacksADB)
+* [Supply chain data exploration](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
+* [Demand Forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
 
 ## By data category
 
@@ -72,6 +76,11 @@
 * [Supply chain data exploration and report](https://github.com/atamalu123/supply_chain_analysis/blob/main/README.md)
 * [Demand forecasting](https://github.com/atamalu123/demand_forecasting/blob/main/README.md)
 * [Demand Forecasting and Planning](https://github.com/atamalu123/demand_planning/blob/main/README.md)
+
+### Data engineering
+
+* [Take home interview questions](https://github.com/atamalu123/data_engineering_practice)
+* [API Pipeline take home interview](https://github.com/atamalu123/data_engineering_practice_2)
 
 ### Health
 
